@@ -7,7 +7,7 @@ It provides a short explanation of the concept, and links to the full demo syste
 
 ---
 
-## Introduction: What is Architecture as Code (AaC)?
+## 1. Introduction: What is Architecture as Code (AaC)?
 
 **Architecture as Code (AaC)** is the practice of treating software architecture as a **version-controlled, continuously evolving, and automatable artifact**, rather than a static set of diagrams created once at the beginning.
 
@@ -27,19 +27,18 @@ The main goal is to reduce **architecture drift** and make architecture a living
 
 ---
 
-## Purpose of This Repository
+## 2. Purpose of This Repository
 
 This repository exists as a **central hub** for my public presentation and its related demo project.
 
-📌 Event page (DEV.BG):  
+- Event page (DEV.BG):  
 https://dev.bg/event/architecture-as-code-aac-automate-your-software-architecture/
-
-📌 Presentation slides (PowerPoint):  
-`./20260120-Architecture-as-Code-TsvetanVasilev-DevBG.pptx`
+- Presentation slides (PowerPoint):  
+[20260120-Architecture-as-Code-TsvetanVasilev-DevBG.pptx](./20260120-Architecture-as-Code-TsvetanVasilev-DevBG.pptx)
 
 ---
 
-## Presentation Agenda
+## 3. Presentation Agenda
 
 The talk is structured around the following topics:
 
@@ -50,7 +49,7 @@ The talk is structured around the following topics:
 
 ---
 
-## Demo Project: Order Processing System (OPS)
+## 4. Demo Project: Order Processing System (OPS)
 
 To demonstrate Architecture as Code in practice, the presentation is supported by a demo system called:
 
@@ -74,7 +73,7 @@ The demo system supports the following core business use cases:
 
 ---
 
-## OPS Repositories and Project Board
+## 5. OPS Repositories and Project Board
 
 The demo is implemented as multiple repositories, each with a clear responsibility.
 
@@ -118,7 +117,7 @@ It tracks work items and shows how the solution evolves step-by-step, including 
 
 ---
 
-## Key Idea: Architecture evolves every sprint
+## 6. Key Idea: Architecture evolves every sprint
 
 Architecture is not a one-time design activity.
 
@@ -132,16 +131,15 @@ AaC exists to make this evolution:
 
 ---
 
-## Resources
+## 7. Resources
 
-- Simon Brown (C4 Model): https://c4model.com/
-- Simon Brown blog: https://simonbrown.je/
-- Conference Paper: *Architecture as Code* (ICSA 2025):  
-  https://www.researchgate.net/publication/394538438_Architecture_as_Code
+1. Simon Brown (C4 Model): https://c4model.com/
+2. Simon Brown blog: https://simonbrown.je/
+3. Conference Paper: *Architecture as Code* (ICSA 2025):  https://www.researchgate.net/publication/394538438_Architecture_as_Code
 
 ---
 
-## Contacts
+## 8. Contacts
 
 - LinkedIn: https://www.linkedin.com/in/tsvetanv/
 - GitHub: https://github.com/tsvetanv
